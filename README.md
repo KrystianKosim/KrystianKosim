@@ -29,7 +29,7 @@ I am learning java with Mid Java Developer.</h2>
 <img src="src/sql.png" width="30" height="30"><b>SQL</b>
 </p>
 <p float="left">
-<img src="src/intellij.png" width="30" height="30"><b>Intellij IDEA</b>
+<img src="src/IntelliJ.png" width="30" height="30"><b>Intellij IDEA</b>
 </p>
 
 
