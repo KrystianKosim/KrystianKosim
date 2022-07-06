@@ -1,10 +1,31 @@
-<h1>Hi, I am Krystian Kosim</h1>
-<h2> Technologies: </h2>
-<img src="src/java.png" width="30" height="30">   <font size="+3">Java</font>
-<img src="src/spring.png" width="30" height="30"> <font size="+3">Spring</font> </br>
-<img src="src/maven.png" width="30" height="30"> <font size="+3">Maven</font> </br>
-<img src="src/hibernate.png" width="30" height="30"> <font size="+3">Hibernate </font></br>
-<img src="src/rest-api.png" width="30" height="30"> <font size="+3">Rest Api</font></br>
+<h1>Hi, I am Krystian</h1>
+<h2> I study at Polish-Japanese Academy of Information Technology in Warsaw. </br>
+I study extramural </br>
+I am intrested in computer programming in Java, cars, and skiing. </br>
+Currently i am looking for my first job as a Junior Java Developer. </br>
+I am learning java with Mid Java Developer.</h2> 
+<h4> Technologies:</h4>
 
 
+<p float="left">
+<img src="src/java.png" width="30" height="30"><b>Java</b> 
+</p>
+<p float="left">
+<img src="src/spring.png" width="30" height="30"><b>Spring</b>
+</p>
+<p float="left">
+<img src="src/maven.png" width="30" height="30"><b>Maven</b>
+</p>
+<p float="left">
+<img src="src/hibernate.png" width="30" height="30"><b>Hibernate</b>
+</p>
+<p float="left">
+<img src="src/rest-api.png" width="30" height="30"><b>Rest Api</b>
+</p>
+<p float="left">
+<img src="src/git.png" width="40" height="30"><b>Git</b>
+</p>
+<p float="left">
+<img src="src/sql.png" width="30" height="30"><b>SQL</b>
+</p>
 
