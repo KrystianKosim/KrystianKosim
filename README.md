@@ -23,7 +23,7 @@ I am learning java with Mid Java Developer.</h2>
 <img src="src/rest-api.png" width="30" height="30"><b>Rest Api</b>
 </p>
 <p float="left">
-<img src="src/git.png" width="40" height="30"><b>Git</b>
+<img src="src/git.png" width="30" height="30"><b>Git</b>
 </p>
 <p float="left">
 <img src="src/sql.png" width="30" height="30"><b>SQL</b>
