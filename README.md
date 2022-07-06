@@ -28,4 +28,9 @@ I am learning java with Mid Java Developer.</h2>
 <p float="left">
 <img src="src/sql.png" width="30" height="30"><b>SQL</b>
 </p>
+</br></br></br>
+
+<p float="left">
+<img src="src/linkedin.png" width="20" height="20"><b><a href=”https://www.linkedin.com/in/krystian-kosim-ba8905228/”>Linkedin</a></b>
+</p>
 
