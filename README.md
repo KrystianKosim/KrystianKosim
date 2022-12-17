@@ -2,10 +2,6 @@
 <h2> I study at Polish-Japanese Academy of Information Technology in Warsaw. </br>
 I study extramural. </br>
 I am intrested in computer programming in Java, cars, and skiing. </br>
-Currently i am looking for my first job as a Junior Java Developer. </br>
-I am learning java with Mid Java Developer.</h2> 
-<h3> Technologies:</h3>
-
 
 <p float="left">
 <img src="src/java.png" width="30" height="30"><b>Java</b> 
